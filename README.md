@@ -154,9 +154,6 @@ Example:
 GET /api/repositories/search?q=react&page=1&per_page=12
 ```
 
-## Screenshots
-
-Run the application locally and open the Vite URL to capture screenshots of the dashboard, search results, details, bookmarks, analytics, and dark mode.
 
 ## Future Improvements
 
@@ -167,6 +164,3 @@ Run the application locally and open the Vite URL to capture screenshots of the 
 - User profiles
 - Repository comparison
 
-## Author
-
-Built as an Open Source GitHub Project Explorer full-stack project.
