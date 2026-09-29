@@ -1,0 +1,16 @@
+{
+  "name": "github-project-explorer-backend",
+  "version": "1.0.0",
+  "description": "Express API for the Open Source GitHub Project Explorer",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --use-system-ca server.js",
+    "dev": "node --use-system-ca --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
